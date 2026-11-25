@@ -1,0 +1,5 @@
+node_modules
+.env
+.prisma
+dist
+coveragenode_modules
